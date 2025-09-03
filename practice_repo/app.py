@@ -7,6 +7,6 @@ def function():
             count+=1
     return count,len(a)
 
-      
+#docs      
 
 print(function())
